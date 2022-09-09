@@ -10,6 +10,9 @@
 * "You get attacked by an angry trout. Game Over."
 * "You fell into a hole. Game Over."
 
+![image](https://user-images.githubusercontent.com/109082271/189396743-144e0d80-454e-4465-88f6-99feddc6345e.png)
+
+
 
 
  
